@@ -113,18 +113,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.liber.ufpe.br.ico",
     "slug": "liber-pereira-da-costa",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 136,
     "timeDay": 136,
     "timeWeek": 136,
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2023-10-03": 23
+      "2023-10-03": 34
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "http://www.liber.ufpe.br/selos/modules/home/listar_projeto.php?cod=1",
     "icon": "https://icons.duckduckgo.com/ip3/www.liber.ufpe.br.ico",
     "slug": "liber-selos",
-    "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
-    "time": 412,
-    "timeDay": 412,
-    "timeWeek": 412,
-    "timeMonth": 412,
-    "timeYear": 412,
+    "status": "up",
+    "uptime": "69.00%",
+    "uptimeDay": "69.00%",
+    "uptimeWeek": "69.00%",
+    "uptimeMonth": "69.00%",
+    "uptimeYear": "69.00%",
+    "time": 456,
+    "timeDay": 456,
+    "timeWeek": 456,
+    "timeMonth": 456,
+    "timeYear": 456,
     "dailyMinutesDown": {
-      "2023-10-03": 0
+      "2023-10-03": 11
     }
   },
   {
