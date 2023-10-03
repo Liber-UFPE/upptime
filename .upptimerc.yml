@@ -1,31 +1,37 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Liber-UFPE
+repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: "Liber / Página Inicial"
+    url: "http://www.liber.ufpe.br/"
+  - name: "Liber / Monumenta Hyginia"
+    url: "http://www.liber.ufpe.br/hyginia/"
+  - name: "Liber / Visão Holandesa"
+    url: "http://www.liber.ufpe.br/visao-holandesa/"
+  - name: "Railway / Visão Holandesa"
+    url: "https://visao-holandesa.up.railway.app/"
+  - name: "Liber / Memórias do Golpe"
+    url: "http://www.liber.ufpe.br/tg/modules/busca/listar_projeto.php?cod=1"
+  - name: "Liber / Memorial Joaquim Caetano"
+    url: "http://www.liber.ufpe.br/jcaetano/modules/busca/listar_projeto.php?cod=2"
+  - name: "Liber / Pereira da Costa"
+    url: "http://www.liber.ufpe.br/pc2/processYear.jsp?query=1493"
+  - name: "Liber / Selos"
+    url: "http://www.liber.ufpe.br/selos/modules/home/listar_projeto.php?cod=1"
+  - name: "Liber / Ultramar"
+    url: "http://www.liber.ufpe.br/novoclio/?a=3"
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Liber Status
+  introTitle: "**Liber Status**: status das aplicações do Liber"
+  introMessage: Essa página mostra o status das aplicações mantidas pelo [Laboratório Liber](http://www.liber.ufpe.br/), se estão acessíveis para os usuários, e funcionando como esperado.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/Liber-UFPE/upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
