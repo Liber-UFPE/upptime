@@ -124,7 +124,8 @@
     "timeMonth": 143,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-10-14": 1418,
+      "2023-10-15": 21,
+      "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
@@ -144,19 +145,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.liber.ufpe.br.ico",
     "slug": "liber-selos",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 502,
     "timeDay": 937,
     "timeWeek": 554,
     "timeMonth": 502,
     "timeYear": 502,
-    "dailyMinutesDown": {
-      "2023-10-14": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Liber / Ultramar",
