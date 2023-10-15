@@ -124,7 +124,7 @@
     "timeMonth": 143,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-10-15": 1077,
+      "2023-10-15": 1100,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
@@ -144,19 +144,19 @@
     "url": "http://www.liber.ufpe.br/selos/modules/home/listar_projeto.php?cod=1",
     "icon": "https://icons.duckduckgo.com/ip3/www.liber.ufpe.br.ico",
     "slug": "liber-selos",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 898,
-    "timeDay": 3173,
-    "timeWeek": 1342,
-    "timeMonth": 898,
-    "timeYear": 898,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 872,
+    "timeDay": 2478,
+    "timeWeek": 1247,
+    "timeMonth": 872,
+    "timeYear": 872,
     "dailyMinutesDown": {
-      "2023-10-15": 0
+      "2023-10-15": 23
     }
   },
   {
