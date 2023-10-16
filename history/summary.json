@@ -4,19 +4,19 @@
     "url": "http://www.liber.ufpe.br/",
     "icon": "https://icons.duckduckgo.com/ip3/www.liber.ufpe.br.ico",
     "slug": "liber-pagina-inicial",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3550,
-    "timeDay": 2796,
-    "timeWeek": 3089,
-    "timeMonth": 3550,
-    "timeYear": 3550,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 3515,
+    "timeDay": 2873,
+    "timeWeek": 3071,
+    "timeMonth": 3515,
+    "timeYear": 3515,
     "dailyMinutesDown": {
-      "2023-10-16": 1
+      "2023-10-16": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "http://www.liber.ufpe.br/hyginia/",
     "icon": "https://icons.duckduckgo.com/ip3/www.liber.ufpe.br.ico",
     "slug": "liber-monumenta-hyginia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 143,
-    "timeDay": 127,
-    "timeWeek": 134,
+    "timeDay": 133,
+    "timeWeek": 135,
     "timeMonth": 143,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-10-16": 0
+      "2023-10-16": 8
     }
   },
   {
@@ -128,7 +128,7 @@
     "timeMonth": 142,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2023-10-16": 812,
+      "2023-10-16": 819,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -150,18 +150,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.liber.ufpe.br.ico",
     "slug": "liber-selos",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.88%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 1927,
     "timeDay": 3470,
     "timeWeek": 2664,
     "timeMonth": 1927,
     "timeYear": 1927,
     "dailyMinutesDown": {
-      "2023-10-16": 10,
       "2023-10-15": 23
     }
   },
