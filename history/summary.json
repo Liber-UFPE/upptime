@@ -4,19 +4,19 @@
     "url": "http://www.liber.ufpe.br/",
     "icon": "https://icons.duckduckgo.com/ip3/www.liber.ufpe.br.ico",
     "slug": "liber-pagina-inicial",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 3515,
     "timeDay": 2873,
     "timeWeek": 3071,
     "timeMonth": 3515,
     "timeYear": 3515,
     "dailyMinutesDown": {
-      "2023-10-16": 8
+      "2023-10-16": 4
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "http://www.liber.ufpe.br/hyginia/",
     "icon": "https://icons.duckduckgo.com/ip3/www.liber.ufpe.br.ico",
     "slug": "liber-monumenta-hyginia",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 143,
     "timeDay": 133,
     "timeWeek": 135,
     "timeMonth": 143,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-10-16": 8
+      "2023-10-16": 3
     }
   },
   {
@@ -44,18 +44,20 @@
     "url": "http://www.liber.ufpe.br/visao-holandesa/",
     "icon": "https://icons.duckduckgo.com/ip3/www.liber.ufpe.br.ico",
     "slug": "liber-visao-holandesa",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 139,
     "timeDay": 127,
     "timeWeek": 135,
     "timeMonth": 139,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-16": 3
+    }
   },
   {
     "name": "Railway / Visão Holandesa",
@@ -80,36 +82,40 @@
     "url": "http://www.liber.ufpe.br/tg/modules/busca/listar_projeto.php?cod=1",
     "icon": "https://icons.duckduckgo.com/ip3/www.liber.ufpe.br.ico",
     "slug": "liber-memorias-do-golpe",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 279,
     "timeDay": 256,
     "timeWeek": 272,
     "timeMonth": 279,
     "timeYear": 279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-16": 2
+    }
   },
   {
     "name": "Liber / Memorial Joaquim Caetano",
     "url": "http://www.liber.ufpe.br/jcaetano/modules/busca/listar_projeto.php?cod=2",
     "icon": "https://icons.duckduckgo.com/ip3/www.liber.ufpe.br.ico",
     "slug": "liber-memorial-joaquim-caetano",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 582,
     "timeDay": 502,
     "timeWeek": 534,
     "timeMonth": 582,
     "timeYear": 582,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-16": 2
+    }
   },
   {
     "name": "Liber / Pereira da Costa",
@@ -128,7 +134,7 @@
     "timeMonth": 142,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2023-10-16": 819,
+      "2023-10-16": 883,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -149,18 +155,19 @@
     "url": "http://www.liber.ufpe.br/selos/modules/home/listar_projeto.php?cod=1",
     "icon": "https://icons.duckduckgo.com/ip3/www.liber.ufpe.br.ico",
     "slug": "liber-selos",
-    "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "98.42%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "98.37%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 1927,
     "timeDay": 3470,
     "timeWeek": 2664,
     "timeMonth": 1927,
     "timeYear": 1927,
     "dailyMinutesDown": {
+      "2023-10-16": 1,
       "2023-10-15": 23
     }
   },
@@ -169,9 +176,9 @@
     "url": "http://www.liber.ufpe.br/novoclio/?a=3",
     "icon": "https://icons.duckduckgo.com/ip3/www.liber.ufpe.br.ico",
     "slug": "liber-ultramar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -180,6 +187,8 @@
     "timeWeek": 132,
     "timeMonth": 137,
     "timeYear": 137,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-16": 0
+    }
   }
 ]
