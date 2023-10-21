@@ -12,6 +12,8 @@ sites:
     url: "https://visao-holandesa.up.railway.app/health"
   - name: "Railway / Monumenta Hyginia"
     url: "https://hyginia.up.railway.app/health"
+  - name: "Railwau / Pereira da Costa"
+    url: "https://pereira-da-costa.up.railway.app/health"
   - name: "Liber / Memórias do Golpe"
     url: "http://www.liber.ufpe.br/tg/modules/busca/listar_projeto.php?cod=1"
   - name: "Liber / Memorial Joaquim Caetano"
