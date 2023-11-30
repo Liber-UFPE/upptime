@@ -1,7 +1,7 @@
 url: http://www.liber.ufpe.br/novoclio/?a=3
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-30T19:10:55.372Z
+status: up
+code: 200
+responseTime: 7700
+lastUpdated: 2023-11-30T19:26:50.375Z
 startTime: 2023-10-03T16:01:50.604Z
 generator: Upptime <https://github.com/upptime/upptime>
