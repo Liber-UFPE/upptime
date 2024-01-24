@@ -1,7 +1,7 @@
 url: https://hyginia.up.railway.app/health
-status: down
-code: 404
-responseTime: 121
-lastUpdated: 2024-01-24T01:49:59.862Z
+status: up
+code: 200
+responseTime: 637
+lastUpdated: 2024-01-24T06:00:36.204Z
 startTime: 2023-10-18T14:18:48.421Z
 generator: Upptime <https://github.com/upptime/upptime>
