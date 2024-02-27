@@ -1,7 +1,7 @@
 url: https://visaoholandesa.up.railway.app/health
-status: up
-code: 200
-responseTime: 228
-lastUpdated: 2024-02-26T23:07:19.203Z
+status: down
+code: 404
+responseTime: 260
+lastUpdated: 2024-02-27T16:45:07.713Z
 startTime: 2023-10-03T16:01:43.470Z
 generator: Upptime <https://github.com/upptime/upptime>
