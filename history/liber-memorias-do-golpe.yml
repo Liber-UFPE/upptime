@@ -1,7 +1,7 @@
 url: http://www.liber.ufpe.br/tg/modules/busca/listar_projeto.php?cod=1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-31T10:57:33.199Z
+status: up
+code: 200
+responseTime: 282
+lastUpdated: 2024-05-31T12:12:58.038Z
 startTime: 2023-10-03T16:01:44.159Z
 generator: Upptime <https://github.com/upptime/upptime>
